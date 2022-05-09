@@ -16,7 +16,7 @@
 
 :star: Lifelong learner!
 
-:mag: Currently learning **data science & analysis**, **web development** and **software architecture patterns**.
+:mag: Currently learning **artificial intelligence**, **data science**, **web development** and **software architecture patterns**.
 
 #
 

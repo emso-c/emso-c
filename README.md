@@ -18,6 +18,8 @@
 
 :mag: Currently learning **artificial intelligence**, **data science**, **web development** and **software architecture patterns**.
 
+:point_right: https://emso-c.github.io/portfolio/
+
 #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emso-c&show_icons=true&theme=gruvbox&count_private=true)

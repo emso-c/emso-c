@@ -16,7 +16,7 @@
 
 :star: Lifelong learner!
 
-:mag: Currently learning **artificial intelligence**, **data science**, **web development** and **software architecture patterns**.
+:mag: Currently learning **artificial intelligence**, **next.js**, **network architecture** and **software architecture patterns**.
 
 :point_right: https://emso-c.github.io/portfolio/
 

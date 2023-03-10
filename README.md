@@ -4,19 +4,19 @@
 
 :computer: I love providing *fast, optimized and readable* solutions for algorithmic problems.
 
-:book: Language enthusiast.
+:book: Language enthusiast
 <span>
-  <img align="center" width=20 height=20 alt="portfolio_view" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/282/flag-united-kingdom_1f1ec-1f1e7.png">
-  <img align="center" width=20 height=20 alt="portfolio_view" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/281/flag-japan_1f1ef-1f1f5.png">
-  <img align="center" width=20 height=20 alt="portfolio_view" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/281/flag-turkey_1f1f9-1f1f7.png">
-  <img align="center" width=20 height=20 alt="portfolio_view" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/281/flag-spain_1f1ea-1f1f8.png">
+  <img align="center" width=20 height=20 alt="portfolio_view" src="https://flagicons.lipis.dev/flags/4x3/us.svg">
+  <img align="center" width=20 height=20 alt="portfolio_view" src="https://flagicons.lipis.dev/flags/4x3/jp.svg">
+  <img align="center" width=20 height=20 alt="portfolio_view" src="https://flagicons.lipis.dev/flags/4x3/tr.svg">
+  <img align="center" width=20 height=20 alt="portfolio_view" src="https://flagicons.lipis.dev/flags/4x3/es.svg">
 </span>
 
 :earth_americas: History nerd.
 
 :star: Lifelong learner!
 
-:mag: Currently learning **artificial intelligence**, **next.js**, **network architecture** and **software architecture patterns**.
+:mag: Currently learning **next.js**, **network architecture** and **software architecture patterns**.
 
 :point_right: https://emso-c.github.io/portfolio/
 

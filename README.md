@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! :wave: </h1>
 
-<h2 align="center"> :books: I'm emso-c, a Software Engineering student </h2>
+<h2 align="center"> :books: I'm Emir, a Software Engineering Student </h2>
 
 :computer: I love providing *fast, optimized and readable* solutions for algorithmic problems.
 
@@ -20,16 +20,27 @@
 
 :point_right: https://emso-c.github.io/portfolio/
 
+📫 Contact me at emirsoyalan79@gmail.com
+
 #
 
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emso-c&show_icons=true&theme=gruvbox&count_private=true)
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emso-c&layout=compact&theme=gruvbox)
 
 </div>
 
+## :writing_hand: My Blog
+
+<div align="center">
+
+![Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=emirsoyalan79&limit=6)
+
+<a href="https://medium.com/@emirsoyalan79">Check out the rest of my blog</a>
+
+</div>
+  
 ## 🚀 Technologies
 
 <div align="center">

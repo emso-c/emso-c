@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! :wave: </h1>
 
-<h2 align="center"> :books: I'm Emir, a Software Engineering Student </h2>
+<h2 align="center"> :books: I'm Emir, a Software Engineer </h2>
 
 :computer: I love providing *fast, optimized and readable* solutions for algorithmic problems.
 

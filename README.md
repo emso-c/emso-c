@@ -2,7 +2,7 @@
 
 <h2 align="center"> :books: I'm Emir, a Software Engineer </h2>
 
-:computer: I love providing *fast, optimized and readable* solutions for algorithmic problems.
+:computer: Loves providing *fast, optimized and readable* solutions for algorithmic problems.
 
 :book: Language enthusiast
 <span>
@@ -22,24 +22,24 @@
 
 📫 Contact me at emirsoyalan79@gmail.com
 
-#
+<br />
+
+## 📊 Profile
 
 <div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emso-c&show_icons=true&theme=gruvbox&count_private=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emso-c&layout=compact&theme=gruvbox)
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emso-c&show_icons=true&theme=dark&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emso-c&theme=dark&size_weight=1&count_weight=0.3&langs_count=7&layout=compact" />
+</a>
 </div>
-
-## :writing_hand: My Blog
-
 <div align="center">
-
-![Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=emirsoyalan79&limit=6)
-
-<a href="https://medium.com/@emirsoyalan79">Check out the rest of my blog</a>
-
+<!--
+  ![Wakatime](https://wakatime.com/badge/user/b64c72c6-117b-43ac-bc55-dfdf6e57faff.svg)
+-->
 </div>
+<br />
   
 ## 🚀 Technologies
 
@@ -60,4 +60,18 @@
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   
+</div>
+<br />
+
+## :writing_hand: My Blog
+
+<div align="center">
+
+<a width="100%" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirsoyalan79/0"><img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@emirsoyalan79/0" alt="Recent Article 1">
+<a width="100%" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirsoyalan79/1"><img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@emirsoyalan79/1" alt="Recent Article 2">
+<a width="100%" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirsoyalan79/2"><img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@emirsoyalan79/2" alt="Recent Article 3">
+<a width="100%" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirsoyalan79/3"><img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@emirsoyalan79/3" alt="Recent Article 4">
+
+<a href="https://medium.com/@emirsoyalan79">Check out the rest of my blog</a>
+
 </div>

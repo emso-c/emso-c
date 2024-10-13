@@ -2,6 +2,12 @@
 
 <h2 align="center"> :books: I'm Emir, a Software Engineer </h2>
 
+<div align="center">
+  
+  ![Wakatime](https://wakatime.com/badge/user/b64c72c6-117b-43ac-bc55-dfdf6e57faff.svg)
+
+</div>
+
 :computer: Loves providing *fast, optimized and readable* solutions for algorithmic problems.
 
 :book: Language enthusiast
@@ -34,11 +40,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emso-c&theme=dark&size_weight=1&count_weight=0.3&langs_count=7&layout=compact" />
 </a>
 </div>
-<div align="center">
-<!--
-  ![Wakatime](https://wakatime.com/badge/user/b64c72c6-117b-43ac-bc55-dfdf6e57faff.svg)
--->
-</div>
+
 <br />
   
 ## 🚀 Technologies
